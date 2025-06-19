@@ -4,11 +4,12 @@ Welcome to my portfolio! I am a final-year Computer Science Engineering student 
 
 ## Portfolio
 
-Explore my work, projects, and professional journey:
-
-- **Portfolio Website:** [sasanklakimsetti.github.io/my-portfolio](https://sasanklakimsetti.github.io/my-portfolio)
-- **LinkedIn:** [linkedin.com/in/sasank17](https://www.linkedin.com/in/sasank17/)
-- **GitHub:** [github.com/sasanklakimsetti](https://github.com/sasanklakimsetti)
+- **[Portfolio Website](https://sasanklakimsetti.github.io/my-portfolio):**  
+  My personal website showcasing my projects, skills, and professional journey.
+- **[LinkedIn](https://www.linkedin.com/in/sasank17/):**  
+  Professional network and career updates.
+- **[GitHub](https://github.com/sasanklakimsetti):**  
+  Source code, open-source contributions, and project repositories.
 
 ## Skills
 
@@ -36,8 +37,8 @@ I am driven by curiosity and a desire to solve real-world problems through techn
 ## Contact
 
 - 📧 Email: saisasank.lakimsetti@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/sasank17](https://www.linkedin.com/in/sasank17/)  
-- 🐙 GitHub: [github.com/sasanklakimsetti](https://github.com/sasanklakimsetti)  
+- 🌐 LinkedIn: [sasank17](https://www.linkedin.com/in/sasank17/)  
+- 🐙 GitHub: [sasanklakimsetti](https://github.com/sasanklakimsetti)  
 - 📸 Instagram: [nameis_sasank](https://www.instagram.com/nameis_sasank/)
 
 ---
